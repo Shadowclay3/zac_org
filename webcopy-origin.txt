@@ -1,0 +1,1040 @@
+Uri: http://zac.org.ua/
+File Name: C:\Users\mark\Downloads\zac.org.ua\index.htm
+Content Type: text/html
+
+Uri: http://zac.org.ua/certificates
+File Name: C:\Users\mark\Downloads\zac.org.ua\certificates.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/college-today
+File Name: C:\Users\mark\Downloads\zac.org.ua\college-today.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/computer-and-economic-department
+File Name: C:\Users\mark\Downloads\zac.org.ua\computer-and-economic-department.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/contacts
+File Name: C:\Users\mark\Downloads\zac.org.ua\contacts.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/css/bootstrap.min.css
+File Name: C:\Users\mark\Downloads\zac.org.ua\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://zac.org.ua/css/slick-theme.css
+File Name: C:\Users\mark\Downloads\zac.org.ua\css\slick-theme.css
+Content Type: text/css
+
+Uri: http://zac.org.ua/css/slick.css
+File Name: C:\Users\mark\Downloads\zac.org.ua\css\slick.css
+Content Type: text/css
+
+Uri: http://zac.org.ua/css/style.css
+File Name: C:\Users\mark\Downloads\zac.org.ua\css\style.css
+Content Type: text/css
+
+Uri: http://zac.org.ua/cycle-commission-of-aircraft-design-disciplines
+File Name: C:\Users\mark\Downloads\zac.org.ua\cycle-commission-of-aircraft-design-disciplines.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/cycle-commission-of-computer-disciplines
+File Name: C:\Users\mark\Downloads\zac.org.ua\cycle-commission-of-computer-disciplines.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/cycle-commission-of-economic-disciplines
+File Name: C:\Users\mark\Downloads\zac.org.ua\cycle-commission-of-economic-disciplines.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/cycle-commission-of-electrotechnical-disciplines
+File Name: C:\Users\mark\Downloads\zac.org.ua\cycle-commission-of-electrotechnical-disciplines.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/cycle-commission-of-philological-disciplines
+File Name: C:\Users\mark\Downloads\zac.org.ua\cycle-commission-of-philological-disciplines.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/cycle-commission-of-physical-and-mathematical-disciplines
+File Name: C:\Users\mark\Downloads\zac.org.ua\cycle-commission-of-physical-and-mathematical-disciplines.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/cycle-commission-of-physical-culture-disciplines
+File Name: C:\Users\mark\Downloads\zac.org.ua\cycle-commission-of-physical-culture-disciplines.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/cycle-commission-of-socio-political-disciplines
+File Name: C:\Users\mark\Downloads\zac.org.ua\cycle-commission-of-socio-political-disciplines.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/cyclic-commissions
+File Name: C:\Users\mark\Downloads\zac.org.ua\cyclic-commissions.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/department-of-aerospace-and-metalurgy
+File Name: C:\Users\mark\Downloads\zac.org.ua\department-of-aerospace-and-metalurgy.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/department-of-industrial-engineering-and-applied-mechanics
+File Name: C:\Users\mark\Downloads\zac.org.ua\department-of-industrial-engineering-and-applied-mechanics.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/disciplines-forming-general-competences
+File Name: C:\Users\mark\Downloads\zac.org.ua\disciplines-forming-general-competences.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/disciplines-forming-professional-competences
+File Name: C:\Users\mark\Downloads\zac.org.ua\disciplines-forming-professional-competences.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/dorm
+File Name: C:\Users\mark\Downloads\zac.org.ua\dorm.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/educational-events
+File Name: C:\Users\mark\Downloads\zac.org.ua\educational-events.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/educational-plans
+File Name: C:\Users\mark\Downloads\zac.org.ua\educational-plans.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/educational-programs-of-specialized-secondary-education
+File Name: C:\Users\mark\Downloads\zac.org.ua\educational-programs-of-specialized-secondary-education.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/elective-educational-disciplines
+File Name: C:\Users\mark\Downloads\zac.org.ua\elective-educational-disciplines.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/history
+File Name: C:\Users\mark\Downloads\zac.org.ua\history.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/img/bg-banner.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\bg-banner.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/bg-home-main.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\bg-home-main.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/dorm/photo1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\dorm\photo1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/dorm/photo3.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\dorm\photo3.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/dorm/photo5.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\dorm\photo5.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/dzvinki.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\dzvinki.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/1476851503_psiholog.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\1476851503_psiholog.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/bilozub_.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\bilozub_.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/boroday.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\boroday.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/brylev.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\brylev.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/dubey.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\dubey.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/dudnikov1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\dudnikov1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/duhovna.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\duhovna.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/Dyachenko.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\Dyachenko.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/evangelist.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\evangelist.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/Galantyuk.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\Galantyuk.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/gordiy.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\gordiy.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/gudkova.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\gudkova.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/Kachan.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\Kachan.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/Kalinichenko.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\Kalinichenko.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/kaulka.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\kaulka.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/kolyada.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\kolyada.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/kovaleva.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\kovaleva.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/kravchuk.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\kravchuk.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/Kryshtal.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\Kryshtal.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/kucherenko.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\kucherenko.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/Kucherkov.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\Kucherkov.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/lavrinenko.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\lavrinenko.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/lemish.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\lemish.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/magda.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\magda.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/matyuk.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\matyuk.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/Meleshko.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\Meleshko.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/no.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\no.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/employee/pacheva.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\pacheva.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/panarina.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\panarina.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/pataman.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\pataman.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/ponomareva.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\ponomareva.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/popova.JPG
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\popova.JPG
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/prisyagnaya.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\prisyagnaya.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/pupchenko.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\pupchenko.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/romanova1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\romanova1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/romenska.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\romenska.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/rozhkovska.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\rozhkovska.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/rudik.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\rudik.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/samoylenko.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\samoylenko.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/serdiuk.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\serdiuk.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/shishkin.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\shishkin.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/Shmigol.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\Shmigol.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/snizhko.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\snizhko.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/employee/snizkoL.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\snizkoL.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/stepanova.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\stepanova.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/svirina.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\svirina.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/tarasenko.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\tarasenko.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/tkalenko.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\tkalenko.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/tkalich.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\tkalich.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/tokarchuk.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\tokarchuk.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/vera.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\vera.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/vlyazlov.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\vlyazlov.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/volkova.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\volkova.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/yurchenko.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\yurchenko.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/zagrodska.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\zagrodska.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/zavgorodnya.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\zavgorodnya.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/employee/zelins'ka1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\employee\zelins'ka1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/history/photo1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\history\photo1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/history/photo2.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\history\photo2.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/history/photo3.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\history\photo3.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/history/photo4.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\history\photo4.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/history/photo5.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\history\photo5.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/history/photo6.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\history\photo6.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/history/photo7.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\history\photo7.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/history/photo8.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\history\photo8.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/icon/icon-1.svg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\icon\icon-1.svg
+Content Type: image/svg+xml
+
+Uri: http://zac.org.ua/img/icon/icon-2.svg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\icon\icon-2.svg
+Content Type: image/svg+xml
+
+Uri: http://zac.org.ua/img/icon/icon-3.svg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\icon\icon-3.svg
+Content Type: image/svg+xml
+
+Uri: http://zac.org.ua/img/icon/icon-4.svg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\icon\icon-4.svg
+Content Type: image/svg+xml
+
+Uri: http://zac.org.ua/img/icon/main-buttons__icon-1.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\icon\main-buttons__icon-1.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/icon/main-buttons__icon-2.svg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\icon\main-buttons__icon-2.svg
+Content Type: image/svg+xml
+
+Uri: http://zac.org.ua/img/icon/main-buttons__icon-3.svg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\icon\main-buttons__icon-3.svg
+Content Type: image/svg+xml
+
+Uri: http://zac.org.ua/img/icon/main-buttons__icon-4.svg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\icon\main-buttons__icon-4.svg
+Content Type: image/svg+xml
+
+Uri: http://zac.org.ua/img/logo.svg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: http://zac.org.ua/img/main/Е2.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\main\Е2.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/main/ЛА1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\main\ЛА1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/main/ПМ.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\main\ПМ.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/main/гм.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\main\гм.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/main/кн3.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\main\кн3.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/main/кі1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\main\кі1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/main/м1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\main\м1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/event1/ekotoloka.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\event1\ekotoloka.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/events1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\events1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news10.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news10.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news11.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news11.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news12.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news12.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news12/photo1.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news12\photo1.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news12/photo2.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news12\photo2.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news12/photo3.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news12\photo3.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news12/photo4.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news12\photo4.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news12/photo5.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news12\photo5.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news12/photo6.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news12\photo6.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news12/photo7.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news12\photo7.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news13.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news13.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news13/photo1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news13\photo1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news14.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news14.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news14/photo10.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news14\photo10.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news14/photo2.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news14\photo2.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news14/photo3.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news14\photo3.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news14/photo4.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news14\photo4.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news14/photo5.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news14\photo5.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news14/photo6.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news14\photo6.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news14/photo7.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news14\photo7.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news14/photo8.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news14\photo8.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news14/photo9.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news14\photo9.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news15.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news15.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news15/photo1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news15\photo1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news15/photo3.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news15\photo3.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news16.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news16.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news16/photo2.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news16\photo2.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news17.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news17.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news18.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news18.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news18/photo2.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news18\photo2.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news18/photo3.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news18\photo3.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news19.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news19.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news19/photo2.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news19\photo2.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news19/photo3.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news19\photo3.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news2.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news2.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news20.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news20.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news3.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news3.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news4.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news4.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news5.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news5.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news6.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news6.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news7.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news7.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news8.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news8.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/news9.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news9.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/news/news9.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\news9.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo1.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo1.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo10.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo10.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo11.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo11.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo12.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo12.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo13.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo13.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo14.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo14.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo2.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo2.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo3.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo3.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo4.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo4.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo5.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo5.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo6.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo6.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo7.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo7.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo8.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo8.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/no-drugs/photo9.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\no-drugs\photo9.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/sobor2023/photo1.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\sobor2023\photo1.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/sobor2023/photo2.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\sobor2023\photo2.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/sobor2023/photo3.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\sobor2023\photo3.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/sobor2023/photo4.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\sobor2023\photo4.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/sobor2023/photo5.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\sobor2023\photo5.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/sobor2023/photo6.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\sobor2023\photo6.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/sobor2023/photo7.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\sobor2023\photo7.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/news/sobor2023/photo8.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\news\sobor2023\photo8.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/pck/авіаконструктори.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\pck\авіаконструктори.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/pck/економіка.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\pck\економіка.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/pck/електротехніка.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\pck\електротехніка.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/pck/сусп-політ.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\pck\сусп-політ.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/pck/уопм.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\pck\уопм.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/pck/физ-мат.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\pck\физ-мат.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/pck/фізкульт 2.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\pck\фізкульт 2.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/pck/філологічних.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\pck\філологічних.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/akt/akt1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\akt\akt1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/akt/akt2.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\akt\akt2.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/akt/akt3.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\akt\akt3.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/akt/akt4.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\akt\akt4.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/akt/akt5.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\akt\akt5.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/computers/1570279635_it1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\computers\1570279635_it1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/computers/20190902_094132.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\computers\20190902_094132.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/computers/IMG-229c8301530ed3dec1579d83d6f35c2c-V.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\computers\IMG-229c8301530ed3dec1579d83d6f35c2c-V.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/computers/IMG-66ea585fe82059c791b556906564eb9d-V.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\computers\IMG-66ea585fe82059c791b556906564eb9d-V.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/computers/IMG-82da6a72cb9ef58b1af074514795c046-V.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\computers\IMG-82da6a72cb9ef58b1af074514795c046-V.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/computers/IMG_20191219_091232.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\computers\IMG_20191219_091232.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/gm/gm1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\gm\gm1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/gm/gm2.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\gm\gm2.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/gm/gm3.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\gm\gm3.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/gm/gm4.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\gm\gm4.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/gm/gm5.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\gm\gm5.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/sliders/gm/gm6.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\sliders\gm\gm6.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/studkom/studkom1.png
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\studkom\studkom1.png
+Content Type: image/png
+
+Uri: http://zac.org.ua/img/studkom/studkom3.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\studkom\studkom3.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/today1.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\today1.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/img/today2.jpg
+File Name: C:\Users\mark\Downloads\zac.org.ua\img\today2.jpg
+Content Type: image/jpeg
+
+Uri: http://zac.org.ua/in-progress
+File Name: C:\Users\mark\Downloads\zac.org.ua\in-progress.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/js/bootstrap.min.js
+File Name: C:\Users\mark\Downloads\zac.org.ua\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://zac.org.ua/js/jquery-3.6.0.min.js
+File Name: C:\Users\mark\Downloads\zac.org.ua\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: http://zac.org.ua/js/script.js
+File Name: C:\Users\mark\Downloads\zac.org.ua\js\script.js
+Content Type: application/javascript
+
+Uri: http://zac.org.ua/js/slick.min.js
+File Name: C:\Users\mark\Downloads\zac.org.ua\js\slick.min.js
+Content Type: application/javascript
+
+Uri: http://zac.org.ua/library
+File Name: C:\Users\mark\Downloads\zac.org.ua\library.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/licenses
+File Name: C:\Users\mark\Downloads\zac.org.ua\licenses.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/managment
+File Name: C:\Users\mark\Downloads\zac.org.ua\managment.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/material-and-technical-support
+File Name: C:\Users\mark\Downloads\zac.org.ua\material-and-technical-support.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news
+File Name: C:\Users\mark\Downloads\zac.org.ua\news.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/10-accurate-facts-about-drugs
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\10-accurate-facts-about-drugs.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/16-days-against-violence
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\16-days-against-violence.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/actual-problems-of-mathematics-and-informatics
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\actual-problems-of-mathematics-and-informatics.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/day-of-commemoration-of-the-participants-of-hostilities-on-the-territory-of-other-states
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\day-of-commemoration-of-the-participants-of-hostilities-on-the-territory-of-other-states.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/day-of-remembrance-and-reconciliation
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\day-of-remembrance-and-reconciliation.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/Epiphany
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\Epiphany.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/europe-day
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\europe-day.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/honoring-the-memory-of-the-college-teacher-defender-of-Ukraine-Maly-Oleg-Robertovych
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\honoring-the-memory-of-the-college-teacher-defender-of-Ukraine-Maly-Oleg-Robertovych.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/labor-protection-through-the-eyes-of-children
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\labor-protection-through-the-eyes-of-children.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/moloda-nauka-2023
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\moloda-nauka-2023.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/santa-klaus-2021
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\santa-klaus-2021.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/sketch-geometry-and-engineering-graphics
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\sketch-geometry-and-engineering-graphics.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/sobornost-day
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\sobornost-day.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/the-day-of-conciliarness-2022
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\the-day-of-conciliarness-2022.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/training-center-2023
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\training-center-2023.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/unity-day
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\unity-day.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/unity-day-2023
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\unity-day-2023.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/vybory-studrada
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\vybory-studrada.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/vyshyvanka-day
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\vyshyvanka-day.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/news/wkb-european-championship
+File Name: C:\Users\mark\Downloads\zac.org.ua\news\wkb-european-championship.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/opp
+File Name: C:\Users\mark\Downloads\zac.org.ua\opp.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/prevention-of-corruption
+File Name: C:\Users\mark\Downloads\zac.org.ua\prevention-of-corruption.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/prospective-student
+File Name: C:\Users\mark\Downloads\zac.org.ua\prospective-student.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/psychological-service
+File Name: C:\Users\mark\Downloads\zac.org.ua\psychological-service.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/rating
+File Name: C:\Users\mark\Downloads\zac.org.ua\rating.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/reporting
+File Name: C:\Users\mark\Downloads\zac.org.ua\reporting.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/studkom
+File Name: C:\Users\mark\Downloads\zac.org.ua\studkom.html
+Content Type: text/html
+
+Uri: http://zac.org.ua/team-teachers
+File Name: C:\Users\mark\Downloads\zac.org.ua\team-teachers.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js
+File Name: C:\Users\mark\Downloads\zac.org.ua\npm\@popperjs\core@2.9.2\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js
+File Name: C:\Users\mark\Downloads\zac.org.ua\npm\feather-icons\dist\feather.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&display=swap
+File Name: C:\Users\mark\Downloads\zac.org.ua\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Users\mark\Downloads\zac.org.ua\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Users\mark\Downloads\zac.org.ua\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Users\mark\Downloads\zac.org.ua\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Users\mark\Downloads\zac.org.ua\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Users\mark\Downloads\zac.org.ua\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://kit.fontawesome.com/33bc9266ce.js
+File Name: C:\Users\mark\Downloads\zac.org.ua\33bc9266ce.js
+Content Type: text/javascript
+
